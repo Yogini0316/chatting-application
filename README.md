@@ -19,10 +19,12 @@ A simple two-way chatting application built in Java using socket programming. Th
 ## 📁 Project Structure
 
 ChattingApp/
-│
-├── Server.java # Handles incoming client connections and receives messages
-├── Client.java # Connects to the server and sends messages
-└── README.md
+
+Server.java # Handles incoming client connections and receives messages
+
+Client.java # Connects to the server and sends messages
+
+
 
 ---
 
